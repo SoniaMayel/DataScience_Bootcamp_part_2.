@@ -1,16 +1,18 @@
 ## Project 7
 
-- 📊 **Supervised Machine Leraning**: A project involving Supervised MAchine Learning using Python's Scikit-Learn library.
+
+### 📊 Supervised Machine Leraning: 
+A project involving Supervised Machine Learning using Python's Scikit-Learn library.
     
 - 📑 **Case Study**:
 
 In this project I worked for a consultancy specialising in real estate: my clients include developers, agencies, and investors. Pricing is a central aspect to the business. Traditionally, it’s the domain of home appraisers to determine the value of a property, which must be executed in an unbiased way, following an official criteria to ensure that there is no favour towards either the buyer or the seller.
 
-#I was tasked with creating a model that predicts the price of a house based on its characteristics.
+**I was tasked with creating a model that predicts the price of a house based on its characteristics.**
 
 - 💻 **Project Setup**:  
 
-- The project is divided into two major phases:
+  * The project is divided into two major phases:
 
 1. Create a model to predict whether a house is expensive or not. 
 2. Create a model to predict the exact price of a house.
